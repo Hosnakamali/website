@@ -47,3 +47,11 @@ p{
     width: 400px;
     height: 400px;
 }
+@media (min-width:390) and (min-height:844) {
+img{
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+align-content: space-between
+}
+}
